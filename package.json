@@ -1,0 +1,14 @@
+{
+  "name": "doorkeeper",
+  "version": "1.0.0",
+  "description": "doorkeeper on Docker",
+  "author": "ak75",
+  "main": "doorkeeper.js",
+
+  "dependencies": {
+    "libsodium-wrappers-sumo" : ">=0.5.1",
+    "chacha" : ">=2.1.0",
+    "crc-32" : ">=1.0.1"
+  }
+}
+
